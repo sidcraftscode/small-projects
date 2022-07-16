@@ -1,2 +1,2 @@
-# small-projects
+# Projects
 Small experimental projects - mostly frontend
